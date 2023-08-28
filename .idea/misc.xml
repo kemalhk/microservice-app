@@ -6,6 +6,7 @@
         <option value="$PROJECT_DIR$/movie-client/movie-client/pom.xml" />
         <option value="$PROJECT_DIR$/movie-server/movie-server/pom.xml" />
         <option value="$PROJECT_DIR$/eureka-server/eureka-server/pom.xml" />
+        <option value="$PROJECT_DIR$/admin/admin/pom.xml" />
       </list>
     </option>
   </component>

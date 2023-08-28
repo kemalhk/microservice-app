@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/admin/admin/admin.iml" filepath="$PROJECT_DIR$/admin/admin/admin.iml" />
       <module fileurl="file://$PROJECT_DIR$/movie-server/movie-server/eureka-server.iml" filepath="$PROJECT_DIR$/movie-server/movie-server/eureka-server.iml" />
       <module fileurl="file://$PROJECT_DIR$/eureka-server/eureka-server/eureka-server (1).iml" filepath="$PROJECT_DIR$/eureka-server/eureka-server/eureka-server (1).iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/microservice.iml" filepath="$PROJECT_DIR$/.idea/microservice.iml" />
